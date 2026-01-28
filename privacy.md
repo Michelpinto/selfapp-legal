@@ -75,8 +75,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:
-- **Email**: [Your email]
-- **GitHub**: [Your GitHub profile or repo issues page]
+- **Email**: michelpintodev@gmail.com
+- **GitHub**: https://github.com/Michelpinto
 
 ---
 
