@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Self ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our iOS application.
+Self is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our iOS application.
 
 ## Information We Collect
 
